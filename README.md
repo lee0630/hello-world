@@ -1,2 +1,6 @@
 # hello-world
-just repository
+
+hi!
+
+hello everyone, l like java .
+nice.
